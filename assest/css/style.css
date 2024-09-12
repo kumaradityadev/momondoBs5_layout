@@ -35,4 +35,12 @@
   height: 550px;
   background-size: 100% 100%;
 }
-/* Banner section end  */
+
+
+/* media Quary start */
+@media screen and (max-width:576px) {
+  .top-15{
+    top:10%;
+}
+}
+/* media Quary end */
