@@ -38,6 +38,14 @@ P{
 .bg-blue6{
   background:#664CAD;
 }
+hr{
+  height: 8px;
+  background: #c20505;
+  border: none;
+  width: 50px;
+  margin: 9px;
+
+}
 
 /* universal color end */
 
@@ -71,6 +79,15 @@ P{
 /* Newsletter section end */
 .destnations span {
   color: #ff4500;
+}
+footer{
+  background:linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.9)) , url(../img/plane\ last.jpg);
+  background-size: cover;
+}
+footer img {
+  width: 20px;
+  height: 15px;
+  padding-right: 5px;
 }
 
 
